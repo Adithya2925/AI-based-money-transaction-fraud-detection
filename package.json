@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "react-native-get-sms-android": "^2.1.0"
+  }
+}
